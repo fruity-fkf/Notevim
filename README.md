@@ -11,7 +11,7 @@ This should be used with The [Neovide](https://github.com/neovide/neovide)  vim 
 
 
 ## install
-**REQUIREMENTS** : Neovim 󰥮 0.7.0 , npm, nodejs 
+**REQUIREMENTS** : Neovim greater than version 0.7.0 , npm, nodejs 
 
 To install the config just run:
 
